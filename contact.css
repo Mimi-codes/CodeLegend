@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+  background: rgb(226, 221, 221);
+}
+
+.contact{
+    background-image: url("./images/blog-post-img2-750x500.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+padding-top: 8%;
+padding-left: 5%;
+}
+
+
+a{
+    padding-right: 45%;
+}
+
+.send{
+    width: 89%;
+}
+
+
+footer{
+    background-image: url("./images/wave.svg");
+    background-repeat: no-repeat;
+    background-size: 3400px;
+}
+
+.mail-1{
+    margin-left: 30%;
+    width: 38%;
+}
+
+.btn-subscribe, .btn-started{
+    margin-left: 45%;
+    background-color: green;
+    color: white;
+    border-radius: 3%;
+}
+
+li{
+    list-style-type: none;
+}
+
+.edu{
+    padding-left: 10%;
+}
+
+.fate:hover{
+    cursor: grabbing;
+    color: gray;
+    }
+  
+    .policy:hover{
+      cursor: grabbing;
+      color: gray;
+  }
+
+.policy{
+    padding-left: 40%;
+}
+
+.copy{
+    padding-top:;
+}
+
+.name{
+    width: 89%;
+}
+
+.card{
+    margin-left: 37%;
+    padding-bottom: 3%;
+}
+
+.get{
+    padding-bottom: 8%;
+}
