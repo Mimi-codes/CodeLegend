@@ -1,0 +1,99 @@
+
+
+
+a{
+  padding-right: 45%;
+}
+
+.welcome{
+  background-image: url("./images/c1920_womenintech-299653...jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.come{
+  padding-top: 30%;
+  font-size: 580%;  
+}
+
+.tony, .yusadolat, .abdqaadir, .tomi, .titi, .kawthar{
+  border-radius: 50%;
+  margin-left: 27%;
+}
+
+
+.us, body{
+  background: rgb(226, 221, 221);
+}
+
+.about, .own, .full{
+  color: rgb(233, 134, 35);
+}
+
+.own{
+  padding-left: 14%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.empower{
+  padding-bottom: 28%;
+  font-size: 150%;
+}
+
+/*
+footer{
+  background-image: url("./images/wave.svg");
+  background-repeat: no-repeat;
+  background-size: 3400px;
+}
+*/
+.mail{
+  margin-left: 30%;
+  width: 38%;
+}
+
+.btn-subscribe, .btn-started{
+    margin-left: 45%;
+    background-color: green;
+    color: white;
+    border-radius: 3%;
+}
+
+li{
+  list-style-type: none;
+}
+
+.edu{
+  padding-left: 10%;
+}
+
+.policy{
+  padding-left: 40%;
+}
+
+.copy{
+  padding-top:;
+}
+
+footer{
+    background-image: url("./images/wave.svg");
+    background-repeat: no-repeat;
+    background-size: 3400px;
+}
+
+.mail-1{
+  margin-left: 32%;
+  width: 38%;
+}
+
+.fate:hover{
+  cursor: grabbing;
+  color: gray;
+  }
+
+  .policy:hover{
+    cursor: grabbing;
+    color: gray;
+}

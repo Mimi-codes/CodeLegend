@@ -1,0 +1,135 @@
+
+a{
+    padding-right: 45%;
+}
+
+.first {
+    background-image: url("./images/wave.svg");
+    background-repeat: no-repeat;
+    background-size: 3400px;
+}
+
+h1{
+    font-size: 270%;
+}
+
+h3{
+    padding-top: 20%;
+    font-size: 280%;
+}
+
+.build{
+}
+
+.btn:hover, .btn-view:hover {
+    transform: skew(-10deg);
+    }
+
+.btn-view{
+    margin-left: 45%;
+}
+
+.banner{
+    padding-left: 10%;
+}
+/*
+.wave-container > svg {
+    height: 900px;
+}
+*/
+.b-card{
+    padding-right: 5%;
+    padding-left: 2%;
+}
+
+.card{
+    padding-left: 7%;
+}
+
+.start{
+    padding-left: 28%;
+    color: rgb(233, 134, 35);
+}
+
+.start:hover{
+    cursor: grabbing;
+    color: gray;
+}
+
+.click{
+    padding-left: 45%;
+    color: rgb(233, 134, 35);
+}
+
+.click:hover{
+    cursor: grabbing;
+    color: gray;
+}
+
+ .cert, footer, body{
+    background: rgb(226, 221, 221);
+}
+
+h5, .online{
+    color: rgb(233, 134, 35);
+}
+
+.start-1{
+    padding-left: 16%;
+    color: rgb(233, 134, 35);
+}
+
+.start-1:hover{
+    cursor: grabbing;
+    color: gray;
+}
+
+.about{
+    padding-bottom: 9%;
+}
+
+.js{
+    padding-left: 8%;
+}
+
+footer{
+    background-image: url("./images/wave.svg");
+    background-repeat: no-repeat;
+    background-size: 3400px;
+}
+
+.mail{
+    margin-left: 30%;
+    width: 38%;
+}
+
+.btn-subscribe, .btn-started{
+    margin-left: 45%;
+    background-color: green;
+    color: white;
+    border-radius: 3%;
+}
+
+.fate:hover{
+cursor: grabbing;
+color: gray;
+}
+
+li{
+    list-style-type: none;
+}
+
+.edu{
+    padding-left: 10%;
+}
+
+.policy{
+    padding-left: 40%;
+}
+
+.policy:hover{
+        cursor: grabbing;
+        color: gray;
+}
+
+

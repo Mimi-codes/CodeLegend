@@ -1,0 +1,91 @@
+
+
+
+body{ 
+    background: rgb(226, 221, 221);
+}
+
+
+a{
+    padding-right: 45%;
+}
+
+.card-i{
+    padding-top: 8%;
+    background-image: url("./images/1500-0-.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 5%;
+}
+
+.login-i{
+padding-left: 1%;
+}
+
+.log, .reg{
+    padding-left: 9%;
+}
+
+
+.name, .btn{
+    width: 90%;
+}
+
+.rad{
+    padding-top: 8%;
+}
+
+.mail{
+    margin-left: 32%;
+    width: 38%;
+}
+
+hr{
+    width: 50%;
+    margin-left: 25%;
+}
+
+footer{
+    background-image: url("./images/wave.svg");
+    background-repeat: no-repeat;
+    background-size: 3400px;
+}
+
+.mail-1{
+    margin-left: 30%;
+    width: 38%;
+}
+
+.btn-subscribe, .btn-started{
+    margin-left: 45%;
+    background-color: green;
+    color: white;
+    border-radius: 3%;
+}
+
+li{
+    list-style-type: none;
+}
+
+.edu{
+    padding-left: 10%;
+}
+
+.fate:hover{
+    cursor: grabbing;
+    color: gray;
+    }
+  
+    .policy:hover{
+      cursor: grabbing;
+      color: gray;
+  }
+
+.policy{
+    padding-left: 40%;
+}
+
+.copy{
+    padding-top:;
+}
+

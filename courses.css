@@ -1,0 +1,112 @@
+
+
+.learn{ 
+    background: rgb(226, 221, 221);
+}
+
+h1{
+    font-size: 360%;
+}
+
+a{
+    padding-right: 45%;
+}
+
+.learn{
+    background-image: url("./images/software_development_team_coding_programming_strategy_thinkstock_853580100-100749662-large\ \(2\).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.at, .all, footer, body{   
+    background: rgb(226, 221, 221);
+
+}
+
+.own{
+    padding-left: 7%;
+    margin-left: 26%;
+    margin-right: 25%;
+    color: rgb(233, 134, 35);
+}
+
+.large{
+    padding-top: 30%;
+}
+
+.explore{
+    padding-bottom: 30%;
+    font-size: 130%;
+}
+
+.js{
+    padding-left: 6%;
+}
+
+.ui{
+    padding-left: 7%;
+}
+
+.ruby{
+    padding-left: 7%;
+}
+
+.pyt, .java, .c++{
+    padding-left: 4%;
+}
+
+
+.all{
+    margin-left: 45%;
+}
+
+.reg{
+    margin-left: 47%;
+}
+
+.our{   
+    background: rgb(226, 221, 221);
+padding-left: 10%;
+}
+
+footer{
+    background-image: url("./images/wave.svg");
+    background-repeat: no-repeat;
+    background-size: 3400px;
+}
+
+.mail-1{
+    margin-left: 32%;
+    width: 38%;
+}
+
+.btn-subscribe, .btn-started{
+    margin-left: 45%;
+}
+
+li{
+    list-style-type: none;
+}
+
+.edu{
+    padding-left: 10%;
+}
+
+.fate:hover{
+    cursor: grabbing;
+    color: gray;
+    }
+  
+    .policy:hover{
+      cursor: grabbing;
+      color: gray;
+  }
+
+.policy{
+    padding-left: 40%;
+}
+
+.copy{
+    padding-top:;
+}
+
